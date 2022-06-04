@@ -12,12 +12,12 @@
 ---
 3) *jobs*
 >* 리눅스 명령어 jobs는 백그라운드로 실행되는 작업목록 (작업번호, 상태, 명령어)를 보여주는 리눅스 명령어이다.
->> 사용법 : jobs [옵션] [job ID] / 'jobs -x command [args]'
+>> + 사용법 : jobs [옵션] [job ID] / 'jobs -x command [args]'
  
 ---
 4) *kill*
 >* 갑자기 서버 모니터링 하는중 CPU사용량이 높아지거나 프로세스 중지가 되지 않을때 강제종료하는 명령어입니다.
->> 사용법 : 'kill(PID)'
+>> + 사용법 : 'kill(PID)'
 >> 
 >>![kill](https://user-images.githubusercontent.com/106884020/172021861-b17ae5f6-daa8-4f56-8e3c-b1129e5b9de2.jpg)
 ---
