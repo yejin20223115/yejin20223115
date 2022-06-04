@@ -9,7 +9,10 @@
 ---
 3)*jobs*
 >리눅스 명령어 jobs는 작업이 중지된 상태, 백그라운드로 진행 중인 작업 상태, 변경 되었지만 보고되지 않은 상태 등을 표시하는 명령어다.
+>> 사용법 : jobs [옵션] [job ID] / jobs -x command [args]
+ 
 ---
 4)*kill*
 >갑자기 서버 모니터링 하는중 CPU사용량이 높아지거나 프로세스 중지가 되지 않을때 사용하는 명령어 입니다.
-
+>> 사용법 : kill(PID)
+img src="https://th.bing.com/th/id/R.6ed95f75219c2417d471db3dcf08aa0b?rik=%2b1rf%2f87dhGHcTw&riu=http%3a%2f%2fblog.servis.co.kr%2fwp-content%2fuploads%2f2019%2f04%2fkillall.jpg&ehk=UO8YXRAe9ni5SMcxlPi7iuPswXNF7IZGjI0y4aNEtd8%3d&risl=&pid=ImgRaw&r=0"
